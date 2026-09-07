@@ -22,7 +22,7 @@ I spent 1.5+ years working directly with high-volume customer and performance da
 - **Customer Relationship Management:** Shareholder Communications, Dashboarding & Reporting
 
 <img src="https://spectrapackautomation.com/img/contactme.gif" />
-### 📫 How to Reach Me
+## 📫 How to Reach Me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--jena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jena)
 [![Email](https://img.shields.io/badge/Email-ayushjena227%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjena227@gmail.com)
