@@ -22,10 +22,11 @@ I spent 1.5+ years working directly with high-volume customer and performance da
 - **Customer Relationship Management:** Shareholder Communications, Dashboarding & Reporting
 
 <img src="https://spectrapackautomation.com/img/contactme.gif" />
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-ayushjena227@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ayushjena227gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush-jena-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-jena/)
+### 📫 How to Reach Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--jena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jena)
+[![Email](https://img.shields.io/badge/Email-ayushjena227%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjena227@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushjena1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushjena1)
 
 *Currently open to opportunities — if you're hiring for an entry-level analyst role, let's talk.*
 ❤ [By Ayush Jena](https://github.com/amlanmohanty1/)
