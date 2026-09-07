@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, there! It's Ayush! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=amlanmohanty1&color=yellow)</div>
 
-<!--
-**ayushjena1/ayushjena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am ✨ **Ayush Jena**✨ , Aspiring Data Analyst transitioning from Operations into Data/Business Analytics — turning spreadsheets, tickets, and dashboards into decisions.
+
+I spent 1.5+ years working directly with high-volume customer and performance data (eBay process, TTEC), tracking KPIs, sales trends, and escalation patterns. That's what pulled me toward analytics — I found I cared more about why the numbers moved than just responding to them. Now I'm building that into a full skill set. My passion lies in using data-driven insights to solve complex problems and drive business strategies. Let's connect and explore the fascinating world of data together!
+
+### 📊 What I'm doing right now
+ 
+- Building out SQL + Python fundamentals through structured coursework
+- Working through the **Google Data Analytics Professional Certificate**
+- Turning real datasets into dashboards and short case-study write-ups (see pinned repos below)
+- Looking for entry-level **Data Analyst / Business Analyst / Reporting Analyst** roles
+
+## 🛠 Skills
+
+- **Programming languages:** Python, SQL
+- **Data Visualization/Business Intelligence:** Excel, Tableau, Power BI
+- **Customer Relationship Management:** Shareholder Communications, Dashboarding & Reporting
+
+<img src="https://spectrapackautomation.com/img/contactme.gif" />
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-ayushjena227@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ayushjena227gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush-jena-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-jena/)
+
+*Currently open to opportunities — if you're hiring for an entry-level analyst role, let's talk.*
+❤ [By Ayush Jena](https://github.com/amlanmohanty1/)
