@@ -1,9 +1,8 @@
 ### Hi, there! It's Ayush! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=ayushjena1&base=741&color=yellowgreen)</div>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🚀 About Me
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
 I am ✨ **Ayush Jena**✨ , Aspiring Data Analyst transitioning from Operations into Data/Business Analytics — turning spreadsheets, tickets, and dashboards into decisions.
 
