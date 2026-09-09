@@ -29,6 +29,6 @@ I spent 1.5+ years working directly with high-volume customer and performance da
 [![Email](https://img.shields.io/badge/Email-ayushjena227%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushjena227@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushjena1-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayushjena1)
 
-*Currently open to opportunities — if you're hiring for an entry-level analyst role, let's talk.*
+*Currently open to opportunities — if you're hiring for any analyst role, let's talk.*
 
-❤ [By Ayush Jena](https://github.com/amlanmohanty1/)
+❤ [By Ayush Jena](https://github.com/ayushjena1/)
